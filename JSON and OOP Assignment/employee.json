@@ -1,0 +1,23 @@
+[
+    {"Name": "Rahul", "DOB": "1990-05-15", "Height": 170, "City": "Delhi", "State": "Delhi"},
+    {"Name": "Priya", "DOB": "1988-10-22", "Height": 165, "City": "Mumbai", "State": "Maharashtra"},
+    {"Name": "Amit", "DOB": "1992-03-28", "Height": 155, "City": "Kolkata", "State": "West Bengal"},
+    {"Name": "Anjali", "DOB": "1995-09-12", "Height": 175, "City": "Chennai", "State": "Tamil Nadu"},
+    {"Name": "Sandeep", "DOB": "1993-07-04", "Height": 160, "City": "Bengaluru", "State": "Karnataka"},
+    {"Name": "Sunita", "DOB": "1990-06-20", "Height": 165, "City": "Hyderabad", "State": "Telangana"},
+    {"Name": "Rajesh", "DOB": "1987-11-08", "Height": 175, "City": "Ahmedabad", "State": "Gujarat"},
+    {"Name": "Neha", "DOB": "1991-04-25", "Height": 160, "City": "Jaipur", "State": "Rajasthan"},
+    {"Name": "Sachin", "DOB": "1989-03-17", "Height": 180, "City": "Pune", "State": "Maharashtra"},
+    {"Name": "Kavita", "DOB": "1994-08-03", "Height": 155, "City": "Lucknow", "State": "Uttar Pradesh"},
+    {"Name": "Vivek", "DOB": "1992-02-11", "Height": 175, "City": "Bhopal", "State": "Madhya Pradesh"},
+    {"Name": "Anita", "DOB": "1993-12-09", "Height": 165, "City": "Patna", "State": "Bihar"},
+    {"Name": "Sanjay", "DOB": "1988-07-17", "Height": 180, "City": "Kochi", "State": "Kerala"},
+    {"Name": "Preeti", "DOB": "1991-09-23", "Height": 160, "City": "Coimbatore", "State": "Tamil Nadu"},
+    {"Name": "Gaurav", "DOB": "1995-01-31", "Height": 175, "City": "Indore", "State": "Madhya Pradesh"},
+    {"Name": "Anita", "DOB": "1989-11-19", "Height": 165, "City": "Guwahati", "State": "Assam"},
+    {"Name": "Arun", "DOB": "1994-03-12", "Height": 170, "City": "Thiruvananthapuram", "State": "Kerala"},
+    {"Name": "Meera", "DOB": "1992-08-27", "Height": 160, "City": "Kozhikode", "State": "Kerala"},
+    {"Name": "Vinay", "DOB": "1991-06-05", "Height": 175, "City": "Kochi", "State": "Kerala"},
+    {"Name": "Divya", "DOB": "1993-09-15", "Height": 165, "City": "Thrissur", "State": "Kerala"},
+    {"Name": "Rajeev", "DOB": "1988-12-31", "Height": 180, "City": "Kottayam", "State": "Kerala"}
+]
